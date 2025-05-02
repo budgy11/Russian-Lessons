@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-29 Упражения Глаголов.md",
+                "file": "Таблица Клавиатура.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-29 Упражения Глаголов"
+              "title": "Таблица Клавиатура"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "730e6921d4a36d5a",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-29 Упражения Глаголов.md",
+                "file": "Таблица Клавиатура.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03-29 Упражения Глаголов"
+              "title": "Backlinks for Таблица Клавиатура"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-29 Упражения Глаголов.md",
+                "file": "Таблица Клавиатура.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 03-29 Упражения Глаголов"
+              "title": "Outgoing links from Таблица Клавиатура"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-29 Упражения Глаголов.md",
+                "file": "Таблица Клавиатура.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03-29 Упражения Глаголов"
+              "title": "Outline of Таблица Клавиатура"
             }
           },
           {
@@ -197,6 +197,7 @@
   "active": "15cd80e4dca184cb",
   "lastOpenFiles": [
     "README.md",
+    "Таблица Клавиатура.md",
     "03-29 Упражения Глаголов.md"
   ]
 }
