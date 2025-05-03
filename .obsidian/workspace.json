@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a12a1f105712b1f",
+        "id": "0179c5ff7eb73fdd",
         "type": "tabs",
         "children": [
           {
-            "id": "cd1b5a89890d2054",
+            "id": "931bf2305dc8f39f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd1b5a89890d2054",
+  "active": "931bf2305dc8f39f",
   "lastOpenFiles": [
-    "Таблица Клавиатура.md",
     "03-29 Упражения Глаголов.md",
+    "Таблица Клавиатура.md",
     "README.md"
   ]
 }
