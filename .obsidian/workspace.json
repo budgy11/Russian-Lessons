@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-29 Упражения Глаголов.md",
+                "file": "05-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-29 Упражения Глаголов"
+              "title": "05-17"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "931bf2305dc8f39f",
   "lastOpenFiles": [
-    "README.md",
     "03-29 Упражения Глаголов.md",
+    "05-17.md",
+    "README.md",
     "Таблица Клавиатура.md"
   ]
 }
